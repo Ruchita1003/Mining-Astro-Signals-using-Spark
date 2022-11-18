@@ -1,4 +1,4 @@
-# Mining-Astro-Signals-using-Spark
+# Analyzing :satellite: Astronomical Signals :stars: using Spark 
 
 ## This project was executed on [Bridges-2](https://www.psc.edu/resources/bridges-2/), [Pittsburgh Super Computing Centre's](https://www.psc.edu/) flagship super computer.
 

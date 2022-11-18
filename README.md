@@ -5,7 +5,7 @@
 A pdf of the code and its corresponding output can be found [here!](https://github.com/Ruchita1003/Mining-Astro-Signals-using-Spark/blob/main/Mining_Astro_Signals_using_Spark.pdf).
 
 ### A peek into the data
-The data on Bridges-2 consisted of a series of signals stores as:
+The data on Bridges-2 consisted of a series of signals stores as:<br>
     ascension (degrees),  declination (degrees),  time (seconds),  frequency (MHz)
     
 Ascension and Declination denote the location of the astronomical object. Time refers to the time in seconds recorded after a point in time t. Frequency is the radiofrequency of the signals emitted by the astronomical objects.

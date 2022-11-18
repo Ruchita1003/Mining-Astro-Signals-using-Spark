@@ -4,9 +4,9 @@
 
 A pdf of the code and its corresponding output can be found [here!](https://github.com/Ruchita1003/Mining-Astro-Signals-using-Spark/blob/main/Mining_Astro_Signals_using_Spark.pdf).
 
-### A peek into the data
+### A peek into the data:
 The data on Bridges-2 consisted of a series of signals stores as:<br>
-    ascension (degrees),  declination (degrees),  time (seconds),  frequency (MHz)
+        ascension (degrees),  declination (degrees),  time (seconds),  frequency (MHz)
     
 Ascension and Declination denote the location of the astronomical object. Time refers to the time in seconds recorded after a point in time t. Frequency is the radiofrequency of the signals emitted by the astronomical objects.
 
@@ -14,7 +14,7 @@ These are radiofrequency signals captured by an array of instruments scanning a 
 
 The data is almost like all real data, a little noisy and has sources of errors. In our case the angular coordinates have 0.1 degrees error, the signal frequency has 0.1 MHz error and the timebase/period error is <0.1s (i.e. 1 standard deviation).
 
-### Goal
+### Goal:
 Our goal is to find the most regular temporarily repeating RF source.
 
 Our target will be found in the same location (within error) of the sky, on the same frequency (within error) chirping for the most blips, regularly spaced in time during that active period. So.....
@@ -23,7 +23,7 @@ Our target will be found in the same location (within error) of the sky, on the 
 
 Again, we are looking for the most blips!
 
-### Execution
+### Execution:
 
 The steps mentioned below should be followed before executing the code in the aforementioned pdf:
 1) Log into Bridges-2 via the terminal.

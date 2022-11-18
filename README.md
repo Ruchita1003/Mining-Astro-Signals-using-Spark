@@ -6,7 +6,7 @@ A pdf of the code and its corresponding output can be found [here!](https://gith
 
 ### A peek into the data:
 The data on Bridges-2 consisted of a series of signals stores as:<br>
-        ascension (degrees),  declination (degrees),  time (seconds),  frequency (MHz)
+_ascension (degrees),  declination (degrees),  time (seconds),  frequency (MHz)_
     
 Ascension and Declination denote the location of the astronomical object. Time refers to the time in seconds recorded after a point in time t. Frequency is the radiofrequency of the signals emitted by the astronomical objects.
 

@@ -31,7 +31,7 @@ The steps mentioned below should be followed before executing the code in the af
 3) get an interactive node
 4) load the spark module
 5) start a pyspark session
-6) load a datafile and start exploring the space! :satellite::telescope::stars: (Refer to the pdf from here on)
+6) load a datafile and start exploring the space! :satellite::telescope::stars: (Refer to the [pdf](https://github.com/Ruchita1003/Mining-Astro-Signals-using-Spark/blob/main/Mining_Astro_Signals_using_Spark.pdf) from here on)
 
 ### Conclusion:
 
